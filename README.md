@@ -8,6 +8,8 @@ Proficient in SQL, Tableau, and PowerBI, I thrive on the challenge of transformi
 
 As I embark on the next chapter of my career, I am eager to bring my unique blend of skills and experiences to a role where I can make a meaningful impact through data-driven decision-making. I am particularly interested in opportunities that allow me to continue exploring innovative ways to harness the power of data, driving growth, efficiency, and strategic insights. Let's connect and explore how we can collaborate to unlock the full potential of data together. 📖
 
+Feb. 24. I am currently on an externship through TripleTen with CrewTracker Software and DataSpeak, cataloging and migrating their SAP Crystal Reports to Microsoft Power BI.
+
 I am open and looking for externship opportunities to further my practice and application of data management and data visualization through storytelling. 🏫
 
 I am a gamer 🎮 and enthusiast for professional sports ⚽🏈🏀⚾, especially if they represent the city of Houston!
